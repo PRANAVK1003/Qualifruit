@@ -1,6 +1,6 @@
 # Qualifruit
 
-Absolutely! Here’s a clean, professional, and eye-catching GitHub project description for your **Fruit Quality Detection using Machine Learning and Computer Vision** project — perfect for your readme or repo description section:
+
 
 ---
 
